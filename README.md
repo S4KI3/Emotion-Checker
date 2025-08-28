@@ -30,7 +30,7 @@ The UI loads two pickled artifacts—`vectorizer.pkl` and `model.pkl`—to deliv
 └── README.md
 
 ## ⚡ Quick start
-git clone https://github.com/<your-user>/streamlit-emotion-detector.git
+git clone https://github.com/S4KI3/Emotion-Checker.git
 cd streamlit-emotion-detector
 python -m venv .venv && source .venv/bin/activate # optional, Linux/macOS
 pip install -r requirements.txt
